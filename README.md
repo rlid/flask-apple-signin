@@ -8,6 +8,6 @@ The code is uploaded to GitHub in the hope that people might point out:
  - potential problems that might not affect the functionality in common scenarios but do not conform to the specs of Authlib / Sign in with Apple 
 
 #References
-https://developer.apple.com/documentation/sign_in_with_apple/generate_and_validate_tokens
-https://github.com/lepture/authlib
-https://docs.authlib.org/en/latest/client/oauth2.html
+- https://developer.apple.com/documentation/sign_in_with_apple/generate_and_validate_tokens
+- https://github.com/lepture/authlib
+- https://docs.authlib.org/en/latest/client/oauth2.html
